@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name vectrex-stereo-ay)(type KiCad)(uri /Users/brett/code/debugging/technobly/vectrex-stereo-ay/hardware/libs/vectrex-stereo-ay.pretty)(options "")(descr ""))
+)
