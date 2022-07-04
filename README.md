@@ -1,7 +1,7 @@
 Vectrex Stereo AY
 ===
 
-A simple PCB to turn your Vectrex AY-3-8912 3 channel mono sound into stereo line out!
+A simple PCB to turn your Vectrex AY-3-8912 3-channel mono sound into stereo line out!
 
 ![](images/image1.png)
 ![](images/image2.png)
@@ -51,7 +51,7 @@ Installation Pics
 Ordering PCB's
 ===
 
-OSHPark is a good place to order with purple or the new "after dark" theme color scheme.  You can upload the KiCad `vextrex-eprom-dumper.kicad_pcb` there directly.  I would download this entire Github repo ZIP file first though instead of just trying to save the PCB file from your browser.
+OSHPark is a good place to order with purple or the new "after dark" theme color scheme.  You can upload the KiCad `vectrex-stereo-ay.kicad_pcb` there directly.  I would download this entire Github repo ZIP file first though instead of just trying to save the PCB file from your browser.
 
 Another way to order PCB's is by using the included [gerbers-tall-design](gerbers/vectrex-stereo-ay-v1.0.zip) and uploading those with all of the necessary specs to companies like [PCBWay](https://www.pcbway.com) or [JLCPCB](https://jlcpcb.com)
 
@@ -60,6 +60,6 @@ LICENSE
 
 Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 
-Basically, you can make, use, remix as long as you give credit... but you are not allowed to sell them.
-[buy me some coffees please!](https://buymeacoffee.com/walach)  Full [LICENSE here](LICENSE)
+Basically, you can make, use, remix as long as you give credit... but you are not allowed to sell them for profit.
+[If you like this project, buy me a coffee please!](https://buymeacoffee.com/walach)  Full [LICENSE here](LICENSE)
 
